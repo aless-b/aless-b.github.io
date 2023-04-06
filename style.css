@@ -10,6 +10,8 @@
   justify-content: space-between;  
 }
 
+
+
 /* Estilos generales */
 
 section {
@@ -343,8 +345,8 @@ footer {
 }
 
 .footer-logo {
-  height: 80px;
-  width: 80px;
+  height: 100px;
+  width: 100px;
   margin: 10px;
 }
 
